@@ -26,7 +26,6 @@ author_id INTEGER
 );
 
 CREATE TABLE character_books ( id INTEGER PRIMARY KEY,
- id INTEGER PRIMARY KEY,
   book_id INTEGER,
   character_id INTEGER
 );
